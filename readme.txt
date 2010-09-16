@@ -1,7 +1,7 @@
 ﻿=== Plugin Name ===
 Contributors: correodirect
 Donate link: http://coregistros.co
-Tags: coregistration,money,ads,advertising,subscription,feedburner,newsletter,bulletin,register,monetize
+Tags: ad,coregistration,money,ads,advertising,subscription,google,feedburner,signup,users,newsletter,bulletin,register,monetize,monetization,email,mail
 Requires at least: 3.0
 Tested up to: 3.0
 Stable tag: 1.02
